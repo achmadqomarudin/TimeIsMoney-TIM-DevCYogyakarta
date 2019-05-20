@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "755071784855",
+    "firebase_url": "https://timapp-hackatown.firebaseio.com",
+    "project_id": "timapp-hackatown",
+    "storage_bucket": "timapp-hackatown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755071784855:android:2f806ba57d796203",
+        "android_client_info": {
+          "package_name": "com.example.achmadqomarudin.kidsdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755071784855-a28pstnnteremhiia3rls7c61gmqkfd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.achmadqomarudin.kidsdev",
+            "certificate_hash": "ec44e5b7dea43e84054bc2532a9edc6116ff218b"
+          }
+        },
+        {
+          "client_id": "755071784855-nu99snqdce5jt5sqq4f5fu3hsitoa2qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnUz25ytv4-nbMd7GZh1YICzaYnxBCQcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755071784855-nu99snqdce5jt5sqq4f5fu3hsitoa2qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

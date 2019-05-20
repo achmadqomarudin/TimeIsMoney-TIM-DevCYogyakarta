@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\0d388e574e90dc30c77582ff88a55049f5166627\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_5709f0d4d30a307a7a117f76ca23513c9ae8b5d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_2d9c7c69b7b052cb6fa04376509c4c28359b9fa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\4541714e09cec74b5b5da59131a6ce3f5897415a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="59cbbfb2937ebed98c8bb8882b7112d16358014e">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_d0ac8ab1af25faea2e7326366faa99e556e9b086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\9da6645a6748b6274b857dbd14049c7ef18fd669\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f8a80c9882b064f2943e10649a8d2b249f5bf176">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_45d68f02fd2cf10b89ff68a7204aae916a92a4c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\c1e7305206f69bc41fcc2255fa3473195fb6e554\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_5f516d4c0baecc4174c9b08229da1307beb8100e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\common-1.0.0_21a5f4e85fabc62449a5744710101d4e7d5aad19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\ce598291be7c40d947f15a94326032a796a65f4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="925879273e627f34059466359ba6789cf61889e2">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_d8f24a3bdf340d364fec9b4659b5fbe42356c70a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\05bdbd4c159965b4aedc797c8b33bd054c3ee741\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4f9ace23785adf79a174d569bde261f032e1190">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_e2b5ac4db30d68f4278ee60e4048534d9c4b8d1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\cda2fa9d0d441bef956a1009ce2cb58f56033693\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_4ab327c406ecc9495b069cd6907aa9fd5b482351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\dac538bdcedc2a14aba6240a783786b33893d01e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_a19b518795af637dc896c051038448ea70becf73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\ec98f4bceb88df9541c908ddf0968cad126c8d52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f95788f0e923006a2da51733d4cbd5c08aad299c">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_a59338a4e60db7d367d0a83a895d0a00485066fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_d627098b75acd6d27be62f3bde5322ac92ebf741.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\e91cde3d455d0b6f8c728ad9088859c28f4e50f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_0742900d0426d65e2b0a3c983b2d3a3e1400767b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_ba77e9018e1f0d5f518c800d5f4e75479a80fb2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\c4d5e35ef062b7b32f27fa5dd0af0aaf62650d2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ca71e38c643e51083ab3a07f3a056bfb066caec">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_4750ac4fe2ceaef4f10ba8e2a00bf87955609697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\811f2c8ec90f0bba50cc48a2fb5598687612a781\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_3ff99a18c570848f01517778c476e83673f4125b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\befa031989e21abd0d1e5925e674cfeea24fae44\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="91dae39a5cc837ad2a829c0dc69c57ab8d69d22b">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_790217cbe28441ce131be419d32438a23bc314ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_98c3292c5f9976fea11cf859cb3bd57bd3e76395.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\b6495b410a3fc4561fc3d5cf395fa3d1ad2a96c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_412a946421e03c685ef25525faaae5a79ac86699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\98e07bcd27cccf4bf1b2b5f88ae6707edbfedca9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_ebcc287bfd9e912094710bb2ebcbe4c7ed854003.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\2ce9e7e61acf09b76db3634027e718047a85fa3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dc98b63d89490102b0a38423e24dce190354795b">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_870e683311699d8d8ee6c7a7c691bcc841962e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\9730580490f554c46eab92bf667e33efc6cf0634\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_139b0d6a4d6a70334682c413566474c280c6157c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\36c9dcc8ef9d164bdcb098eed0cbdbbe469d1653\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac5e6ae168ef77f0b0b1e3245d7afd7d32f710c3">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_c4c3acc9f7f8480e50e0db7a2984905a33a3883e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\4c07bc2591c1a401da2eb159f8b3782dc5ffc9db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f10fed27d6d0b4aae675f17b33c639b4d5a0ed93">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_b294307ec31d10cf309de1b7d25be4870044c9de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\aa6602ccbc51d2807226fb825782623f89c01324\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_997e16b4a4c5c6381e1f7d2584e474edb44590b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\cfb8d470137530a52d27abc1f6260048456eb807\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_398eb01071ed20b0513d04145c82b17e51abfb2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\9ffc728da6a3fefe3ba429032e6a79b5b737a250\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_a0efc191b4e5edda28763461819e693b99d448d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\3567506bd8b525f72e865aeedbe0d41b80acf158\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_d15934a9350dadae7266386caf75fb82521ab67b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.5.2_31d7618e8e73f46ffe54114ecd1b37476df41d1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_3f9abbbebb205742a8b8854f2d1d0a4fe479de2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.1\287742f1c6cea6d9126670e9f031890b0462362a\support-annotations-27.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="287742f1c6cea6d9126670e9f031890b0462362a">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\support-annotations-27.0.1_51aa5173c75720d4528b94a52930108dacc96499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.2_2b828f5b18b8b372e197df650dddcd9cfa02cbeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\1ac04ea572dd54bdbee8851fb5064679cb79c36f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d928394035bd4f7d2ee9e1c63d45f9ec088e21a4">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_b964bec3465184c1f1360508564a1089fc556e21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_b0713c06f81c8e34703eff08a6a5aaea34c6b7bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_b12aade1536786fce28d6c9a2be2e177d55e707b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\common-1.0.0_fbc6d6062d3410694cb5be3d956da4a735770e1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\570f17ee725c7f895196765a0c9986fa90355700\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cbbd26dd2f6d46181b41a5f6f5e34889442a811b">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_0a61f0be19aa571f7a353b4b07cd618813211c9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\core-3.3.0_42ecead9bd96b7f523337c2c851186264ca5560e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\cc12143eaf5f31e3be3482c493fc59071b9b2bbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_09c34e6e72de3983dd09482872f8531d2cd3cfd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\8f2f7c338ffa4c0132ce53a70ec9bd969b4aa7d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69f7591c9ff9238ff226e264c0260bb9f1ce0029">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_22d6a23b675be5fe148c424452128030f092c9d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achmad Qomarudin\.android\build-cache\52e13a728a0cf0cad8e22a5e98a0c99fd40196af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="E:\A - KidsDev\kidsdevandroid\app\build\intermediates\pre-dexed\debug\classes_5ca3a07b072dd27aba1571f7a8bbe91ea1f83d37.jar" />
+    </item>
+
+</items>

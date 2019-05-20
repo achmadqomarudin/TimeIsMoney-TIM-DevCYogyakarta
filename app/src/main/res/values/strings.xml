@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KidsDev</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit hoc ultimum bonorum, quod nunc a me defenditur; Tu enim ista lenius, hic Stoicorum more nos vexat. At, si voluptas esset bonum, desideraret. Philosophi autem in suis lectulis plerumque moriuntur. Nos cum te, M. Duo Reges: constructio interrete. Luxuriam non reprehendit, modo sit vacua infinita cupiditate et timore.
+
+Confecta res esset. Non dolere, inquam, istud quam vim habeat postea videro; Numquam facies. Compensabatur, inquit, cum summis doloribus laetitia. Quae similitudo in genere etiam humano apparet. Tum ille timide vel potius verecunde: Facio, inquit. Tu enim ista lenius, hic Stoicorum more nos vexat. Quis suae urbis conservatorem Codrum, quis Erechthei filias non maxime laudat? Scaevola tribunus plebis ferret ad plebem vellentne de ea re quaeri. Potius ergo illa dicantur: turpe esse, viri non esse debilitari dolore, frangi, succumbere.
+
+Eaedem res maneant alio modo. Cum salvum esse flentes sui respondissent, rogavit essentne fusi hostes. Nos paucis ad haec additis finem faciamus aliquando; Non dolere, inquam, istud quam vim habeat postea videro; Non igitur de improbo, sed de callido improbo quaerimus, qualis Q. Sed in rebus apertissimis nimium longi sumus. Idemne, quod iucunde?
+
+Quo plebiscito decreta a senatu est consuli quaestio Cn. Suam denique cuique naturam esse ad vivendum ducem. Collatio igitur ista te nihil iuvat. Quorum sine causa fieri nihil putandum est.
+
+Ita relinquet duas, de quibus etiam atque etiam consideret. Non pugnem cum homine, cur tantum habeat in natura boni; Ita multo sanguine profuso in laetitia et in victoria est mortuus. Nescio quo modo praetervolavit oratio. Negat enim summo bono afferre incrementum diem. Zenonis est, inquam, hoc Stoici. Et hunc idem dico, inquieta sed ad virtutes et ad vitia nihil interesse. Hoc ipsum elegantius poni meliusque potuit.
+    </string>
+    <string name="facebook_app_id">821744578002611</string>
+    <string name="fb_login_protocol_scheme">fb821744578002611</string>
+    <string name="action_logout">Logout</string>
+    <string name="hint_minute">Minute</string>
+    <string name="message_minutes">Please Enter Minutes...</string>
+    <string name="title_setting">Settings</string>
+</resources>

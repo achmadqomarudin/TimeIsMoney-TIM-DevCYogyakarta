@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGrey">#A9A9A9</color>
+    <color name="colorBackground">#FFDF64</color>
+    <color name="colorCustomeToolbar">#60D394</color>
+
+    <color name="colorYellow">#F5FA55</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="secondary_text">#212121</color>
+    <color name="white">#ffffff</color>
+
+    <!--Ini codenya diganti sama rini ^^ -->
+    <color name="colorHintTitle">#a7a7a7</color>
+    <color name="colorOrange">#a7a7a7</color>
+    <color name="colorPrimary">#a7a7a7</color>
+    <color name="colorPrimaryDark">#a7a7a7</color>
+</resources>
